@@ -19,13 +19,13 @@ Proposal
 Literature Review
 		
 Intial Codes
-	Cleaning Data
-        Removing/Replacing Missing Values 
-        Spliting Dataset into Test/Train
-       Building Models
-        Decision tree
-        Regression 
-        K Means 
+	Cleaning Data,
+        Removing/Replacing Missing Values, 
+        Spliting Dataset into Test/Train,
+       Building Models,
+        Decision tree,
+        Regression,
+        K Means,
 				
 Comparision of Results 
             
