@@ -14,13 +14,12 @@ Tentative Overall Methodology:
 
 Acquired Data
 
-  Proposal 
+Proposal 
 	
-    Literature Review
+Literature Review
 		
-      Intial Codes
-			
-        Cleaning Data
+Intial Codes
+	Cleaning Data
         Removing/Replacing Missing Values 
         Spliting Dataset into Test/Train
        Building Models
@@ -28,6 +27,8 @@ Acquired Data
         Regression 
         K Means 
 				
-          Comparision of Results 
-            Final Report 
-              Presentation 
+Comparision of Results 
+            
+Final Report 
+              
+Presentation 
