@@ -15,8 +15,11 @@ Tentative Overall Methodology:
 Acquired Data
 
   Proposal 
+	
     Literature Review
+		
       Intial Codes
+			
         Cleaning Data
         Removing/Replacing Missing Values 
         Spliting Dataset into Test/Train
@@ -24,6 +27,7 @@ Acquired Data
         Decision tree
         Regression 
         K Means 
+				
           Comparision of Results 
             Final Report 
               Presentation 
