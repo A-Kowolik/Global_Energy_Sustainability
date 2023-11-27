@@ -23,11 +23,9 @@ Intial Codes
         Removing/Replacing Missing Values, 
         Spliting Dataset into Test/Train,
        Building Models,
-        Decision tree,
-        Regression,
-        K Means,
-				
-Comparision of Results 
+        Decision Tree Regression,
+        Linear Regression,
+        Stepwise Regression,
             
 Final Report 
               
